@@ -15,6 +15,10 @@
 - **Language**: Python 3.10+
 - **Database**: SQLite3 (標準ライブラリ)
 - **Environment**: WSL2 (Ubuntu), Windows 11
+- 
+## 🤖 AI Collaboration
+本プロジェクトの開発にあたっては、AI（Google Gemini）による技術補助を受けています。
+ロジックの最適化、エラーハンドリングの設計、およびクロスプラットフォーム（WSL/Windows）対応のパス処理においてAIとの対話を取り入れ、短期間でのプロトタイプ完成を実現しました。
 
 ## 🚀 使い方
 1. 本リポジトリをクローンするか、`life_log.py` をダウンロードします。
